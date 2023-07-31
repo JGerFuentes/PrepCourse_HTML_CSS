@@ -1,0 +1,26 @@
+body {
+    background-color: #cee4f7;
+}
+h1 {
+    font-family: 'Great Vibes', cursive;
+    color: #0273b0 ;
+    font-size: 80px;
+    margin-block: 30px;
+    padding: 5px;
+    text-align: center;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #6babcdba;
+    border: 5px groove #237170d5;
+}
+li{
+    list-style-type: disclosure-closed;
+}
+h2{
+    font-family: 'Tangerine', cursive;
+    font-size: 70px;
+    text-align: center;
+}
